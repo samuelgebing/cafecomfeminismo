@@ -14,6 +14,8 @@ paginate: 5
 navigation:
   - title: Início
     url: /index.html
+  - title: Todos os artigos
+    url: /articles
   - title: Sobre
     url: /about
   - title: Contato

@@ -1,7 +1,7 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: Café com feminismo
+description: Website oficial do Café com feminismo
 
-url: http://brianmaierjr.github.com/long-haul
+url: https://samuelgebing.github.io/cafecomfeminismo.github.io/
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -12,17 +12,17 @@ plugins: [jekyll-paginate]
 paginate: 5
 
 navigation:
-  - title: Home
+  - title: Início
     url: /index.html
-  - title: About
+  - title: Sobre
     url: /about
-  - title: Contact
+  - title: Contato
     url: /contact
 
 social:
-  github: brianmaierjr
-  twitter: brianmaierjr
-  facebook: brianmaierjr
-  email: brimaidesigns@gmail.com
+  github: cafecomfeminismo
+  twitter: cafecomfeminismo
+  facebook: cafecomfeminismo
+  email: samu.gebing@gmail.com
 
-google_analytics: "UA-58263416-1"
+google_analytics: "GOOGLE"

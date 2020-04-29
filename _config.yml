@@ -4,7 +4,7 @@ description: Website oficial do Café com feminismo
 url: https://samuelgebing.github.io/cafecomfeminismo.github.io
 baseurl: "https://samuelgebing.github.io/cafecomfeminismo.github.io"
 paginate_path: "/page:num"
-permalink: /:title
+permalink: :title
 
 markdown: kramdown
 highlighter: rouge
